@@ -2,7 +2,6 @@
 
 🎓 **19-year-old BCA student at JECRC University**  
 💻 **Android Developer** | 🎨 **UI/UX Designer**
-📍 **From India** 🇮🇳
 
 ---
 
