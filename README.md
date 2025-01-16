@@ -13,17 +13,17 @@
 
 ---
 
-## 🏆 Certificates
-- **Intel AI Global Impact Festival 2023**  
-  - *Introduction to Generative AI*  
-  - *Introduction to Web 3.0*  
-
----
-
-## 💼 Experience
+  ## 💼 Experience
 - **Shoppy Store App**  
   Redesigned and modernized the app's UI using Kodular, transforming it into a user-friendly and visually appealing experience.
 
+
+---
+
+## 🏆 Certificates
+- **Intel AI Global Impact Festival 2023**  
+  - *Introduction to Generative AI*  
+  - *Introduction to Web 3.0*
 ---
 
 ## 🚀 Current Project
