@@ -9,7 +9,8 @@
 - **Android Development:** Kotlin, Java  
 - **UI/UX Design:** Figma  
 - **Web Development:** HTML, CSS, JavaScript  
-- **Database Management:** Firebase, Airtable  
+- **Database Management:** Firebase, Airtable
+- **Code Management:** Git, Github
 
 ---
 
