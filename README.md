@@ -25,8 +25,11 @@
 ---
 
 ## 🚀 Current Project
-- **Gamefyer** *(Under Development)*  
-  Redefining the gaming experience with innovative features and a seamless UI.
+- **Gamefyer** *(Under Development)* (https://gamefyer.com)
+    A platform designed to connect gamers and redefine the gaming experience with unique features.
+
+    **Beta coming Early April 2025.**
+
 ---
 
 ## 🏆 Certificates
