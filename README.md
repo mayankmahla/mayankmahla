@@ -15,7 +15,7 @@
 ---
 
   ## 💼 Experience
-- **Shoppy Store App**  
+- **Shoppy Store App** (shoppystorenp.com)  
   Redesigned and modernized the app's UI using Kodular, transforming it into a user-friendly and visually appealing experience.
 
 
