@@ -17,7 +17,8 @@
 ## 💼 Experience
 - **Shoppy Store** (https://shoppystorenp.com)  
   Redesigned and modernized the Android app's UI using Kodular, transforming it into a user-friendly and visually appealing experience.
-  ***Note: The update for new UI/UX will be released soon.***
+
+  *Note: The update for new UI/UX will be released soon.*
 
 
 ---
