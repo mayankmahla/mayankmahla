@@ -3,8 +3,7 @@
 🎓 **19-year-old BCA student at JECRC University**  
 💻 **Android Developer** | 🎨 **UI/UX Designer**
 
-[![X Profile](https://img.shields.io/badge/X-@imayankmahla-1DA1F2?style=for-the-badge&logo=x)](https://x.com/imayankmahla)  
-[![Discord](https://dcbadge.limes.pink/api/server/fagAu3WBE8)](https://discord.gg/fagAu3WBE8)
+[![X Profile](https://img.shields.io/badge/X-@imayankmahla-1DA1F2?style=for-the-badge&logo=x)](https://x.com/imayankmahla)   [![Discord](https://dcbadge.limes.pink/api/server/fagAu3WBE8)](https://discord.gg/fagAu3WBE8)
 
 ---
 
