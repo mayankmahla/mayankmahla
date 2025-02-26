@@ -3,6 +3,8 @@
 🎓 **19-year-old BCA student at JECRC University**  
 💻 **Android Developer** | 🎨 **UI/UX Designer**
 
+https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/fagAu3WBE8)
+
 ---
 
 ## 🔧 Skills
