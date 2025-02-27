@@ -30,10 +30,10 @@
   A platform designed to connect gamers and redefine the gaming experience with unique features.  
   **Beta:** April 2025  
   
-- **UniVerse (Under Development) - *College project* **  
+- **UniVerse (Under Development)** - *College project*   
   A college social media platform for assignments, info sharing, and networking among students.  
 
-- **PyRattle (Under Testing)**  - *College project* **
+- **PyRattle (Under Testing)**  - *College project* 
   A classic snake game built using Python and the Pygame library. Development is complete, and it is currently undergoing testing.  
 
 ---
