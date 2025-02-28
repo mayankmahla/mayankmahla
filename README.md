@@ -32,7 +32,7 @@
   A platform designed to connect gamers and redefine the gaming experience with unique features.  
   **Beta Release:** April 2025  
 
-- **UniVerse (Under Development)** - *College project*  
+- **[UniVerse](https://github.com/mayankmahla/UniVerse) (Under Development)** - *College project*  
   A college social media platform for assignments, info sharing, and networking among students.  
   **Status:** Under Development  
 
