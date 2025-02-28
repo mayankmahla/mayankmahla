@@ -31,10 +31,10 @@
   **Beta:** April 2025  
   
 - **UniVerse (Under Development)** - *College project*
-  
   A college social media platform for assignments, info sharing, and networking among students.  
 
-- **[PyRattle](https://github.com/mayankmahla/PyRattle) (Under Testing)**  - *College project* 
+- **[PyRattle](https://github.com/mayankmahla/PyRattle) (Under Testing)**  - *College project*
+  
   A classic snake game built using Python and the Pygame library. Development is complete, and it is currently undergoing testing.  
 
 ---
