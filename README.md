@@ -24,18 +24,23 @@
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Current Projects  
 
 - **[Gamefyer](https://gamefyer.com) (Under Development)**  
-  A platform designed to connect gamers and redefine the gaming experience with unique features.  
-  **Beta:** April 2025  
-  
-- **UniVerse (Under Development)** - *College project*
-  A college social media platform for assignments, info sharing, and networking among students.  
+  *Platform:* Gaming Social Network  
+  *Status:* Development  
+  *Beta Release:* April 2025  
 
-- **[PyRattle](https://github.com/mayankmahla/PyRattle) (Under Testing)**  - *College project*
-  
-  A classic snake game built using Python and the Pygame library. Development is complete, and it is currently undergoing testing.  
+- **UniVerse (Under Development)**  
+  *Platform:* College Social Media  
+  *Status:* Development  
+  *Type:* College Project  
+
+- **[PyRattle](https://github.com/mayankmahla/PyRattle) (Under Testing)**  
+  *Platform:* Classic Snake Game  
+  *Status:* Testing  
+  *Tech Stack:* Python, Pygame  
+  *Type:* College Project  
 
 ---
 
