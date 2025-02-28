@@ -8,6 +8,7 @@
 ---
 
 ## 🔧 Skills
+
 - **Android Development:** Kotlin, Java
 - **UI/UX Design:** Figma
 - **Prototyping Tools:** Kodular, Niotron (Google's Blockly technology)
@@ -18,14 +19,13 @@
 ---
 
 ## 💼 Experience
+
 - **[Shoppy Store](https://shoppystorenp.com) (Aug 2024 - Dec 2024)**  
   Redesigned and modernized the Android app's UI using Kodular, transforming it into a user-friendly and visually appealing experience.  
   *Note: The update for new UI/UX will be released soon.*
 
 ---
-
-## 🚀 Current Projects  
-
+ 
 ## 🚀 Current Projects  
 
 - **[Gamefyer](https://gamefyer.com) (Under Development)**  
