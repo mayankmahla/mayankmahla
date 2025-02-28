@@ -30,7 +30,7 @@
   A platform designed to connect gamers and redefine the gaming experience with unique features.  
   **Beta:** April 2025  
   
-- **UniVerse (Under Development)** - *College project*   
+- **UniVerse (Under Development)** - *College project* 
   A college social media platform for assignments, info sharing, and networking among students.  
 
 - **[PyRattle](https://github.com/mayankmahla/PyRattle) (Under Testing)**  - *College project* 
