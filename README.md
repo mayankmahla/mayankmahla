@@ -9,7 +9,7 @@
 
 ## 🔧 Skills
 
-- **Android Development:** Kotlin, Java
+- **Android Development:** Kotlin, Jetpack compose
 - **UI/UX Design:** Figma
 - **Prototyping Tools:** Kodular, Niotron (Google's Blockly technology)
 - **Web Development:** HTML, CSS, JavaScript  
