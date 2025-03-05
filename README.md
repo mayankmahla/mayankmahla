@@ -9,11 +9,10 @@
 
 ## 🔧 Skills
 
-- **Android Development:** Kotlin, Jetpack compose
-- **UI/UX Design:** Figma
-- **Prototyping Tools:** Kodular, Niotron (Google's Blockly technology)
-- **Web Development:** HTML, CSS, JavaScript  
-- **Database:** Firebase, Airtable, Google Cloud Services (GCS)
+- **Android Development:** Android studio, Kodular, Niotron
+- **Languages:** Kotlin, Python, C
+- **UI/UX Design:** Figma, Jetpack compose
+- **Database:** MongoDB, Firebase, Google Cloud Services (GCS), BunnyCDN
 - **Code Management:** Git, GitHub
 
 ---
