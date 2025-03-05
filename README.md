@@ -36,10 +36,6 @@
   A college social media platform for assignments, info sharing, and networking among students.  
   **Status:** Under Development  
 
-- **[PyRattle](https://github.com/mayankmahla/PyRattle)** - *College project*  
-  A classic snake game built using Python and the Pygame library. Development is complete, and it is currently undergoing testing.  
-  **Status:** Under Testing  
-
 ---
 
 ## 🎯 Goals
