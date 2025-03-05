@@ -14,6 +14,7 @@
 - **UI/UX Design:** Figma, Jetpack compose
 - **Database:** MongoDB, Firebase, Google Cloud Services (GCS), BunnyCDN
 - **Code Management:** Git, GitHub
+- **Management tools:** Bordio, Notion
 
 ---
 
