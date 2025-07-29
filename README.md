@@ -2,8 +2,7 @@
 
 <p align="center">
 🎓 20 | BCA 5th Sem @ JECRC University <br>
-💻 Flutter & Android Developer | 🎨 UI/UX Designer <br>
-🎮 Founder of Mahla Esports & Gamefyer
+💻 Flutter & Android Developer | 🎨 UI/UX Designer
 </p>
 
 <p align="center">
