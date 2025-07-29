@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m <strong>Mayank Mahla</strong></h1>
 
 <p align="center">
-🎓 19 | BCA 4th Sem @ JECRC University <br>
+🎓 20 | BCA 5th Sem @ JECRC University <br>
 💻 Flutter & Android Developer | 🎨 UI/UX Designer <br>
 🎮 Founder of Mahla Esports & Gamefyer
 </p>
@@ -51,14 +51,4 @@
   <strong><a href="https://gamefyer.com">Gamefyer</a></strong> (Beta April 2025) <br>
   Social platform for gamers featuring Posts, Shorts, Videos, Communities, Chat & Timeline. <br>
   Built with <strong>Flutter</strong> + Firebase + BunnyCDN.
-</p>
-
----
-
-<h2 align="center">🎯 2025 Goals</h2>
-
-<p align="center">
-  ➤ Launch Gamefyer Beta & scale Mahla Esports <br>
-  ➤ Build high-quality cross-platform mobile apps <br>
-  ➤ Learn advanced Flutter & backend scaling for real-world apps
 </p>
