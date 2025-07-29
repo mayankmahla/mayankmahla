@@ -48,7 +48,7 @@
 <h2 align="center">🚀 Current Project</h2>
 
 <p align="center">
-  <strong><a href="https://gamefyer.com">Gamefyer</a></strong> (Beta April 2025) <br>
-  Social platform for gamers featuring Posts, Shorts, Videos, Communities, Chat & Timeline. <br>
+  <strong><a href="https://gamefyer.com">Gamefyer</a></strong> (Beta October 2025) <br>
+  A dedicated network for the entire gaming industry. <br>
   Built with <strong>Flutter</strong> + Firebase + BunnyCDN.
 </p>
