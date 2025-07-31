@@ -39,7 +39,6 @@
 <p align="center">
   <strong><a href="https://shoppystorenp.com/Game%20Server%20Files/ShoppyStore.apk">Shoppy Store</a></strong> (Aug 2024 - Dec 2024) <br>
   ➤ Revamped & modernized Android app with a sleek, user-friendly UI <br>
-  ➤ <strong>New Update Released!</strong>
 </p>
 
 ---
