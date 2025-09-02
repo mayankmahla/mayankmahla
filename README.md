@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m <strong>Mayank Mahla</strong></h1>
-<h3 align="center">Flutter & Android Developer | UI/UX Designer</h3>
+<h3 align="center">Flutter Developer | UI/UX Designer</h3>
 
 <p align="center">
   <em>A passionate developer and designer from Jaipur 🇮🇳, focused on creating beautiful and intuitive mobile applications.</em>
